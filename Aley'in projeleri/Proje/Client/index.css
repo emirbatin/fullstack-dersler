@@ -1,0 +1,38 @@
+header{
+    background-color: blueviolet;
+    height: 3em;
+    justify-items: center;
+    justify-content: center;
+    justify-self: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 5em;
+    padding-right: 5em;
+   
+}
+.navbar{
+    color: white;
+    font-size: 25pt;
+    
+}
+.pfp{
+    width: 10em;
+    border-radius: 100%;
+}
+.profilpic{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    justify-content: center;
+    justify-self: center;
+    padding: 1em;
+}
+.bilgi{
+    padding: 1em;
+}
+td{
+    display: flex;
+    flex-direction: column;
+}
